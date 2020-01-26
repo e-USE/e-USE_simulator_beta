@@ -2,6 +2,8 @@
 
 tralalala
 
+<a href="Wiki.html">Consulter le Wiki</a>
+
 You can use the [editor on GitHub](https://github.com/e-USE/e-USE_simulator_beta/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
